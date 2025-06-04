@@ -22,14 +22,8 @@ Sean Weber - Ryan Nguyen
 ></iframe>
 
 ### Gameplay
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/Q7B1dx4AepA"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>
+[![Watch on YouTube](https://img.youtube.com/vi/Q7B1dx4AepA/0.jpg)](https://youtube.com/shorts/Q7B1dx4AepA)
+
 
 
 
