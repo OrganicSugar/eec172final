@@ -2,7 +2,7 @@
 
 Sean Weber - Ryan Nguyen
 ## Project Description
-
+The golf minigame consists of a client-run board which has access to basic tools such as a help screen as well as the gameplay of the minigolf courses. The client contains a menu screen the user can traverse. Selecting maps and looking at each map causes the client to send requests to the server using the REST API on AWS. The server will then get these AWS requests by actively sending GET requests to the AWS shadow, and then handles the requests, either updating map lists, identifying specific map data, updating leaderboards, or saving leaderboards when the client exits the program. The client receives these updates to play different maps, and uses the accelerometer as well as the tv remote to update the angle of the swing, and then enters the fire mode to swing the club, where the accelerometer uses the change in x, y, and z values to identify the power of the swing. Upon completion of the courses, the client is prompted to input their name and then sends their score to the server, which as stated updates leaderboards if their score was good enough.
 ## Maps
 ### Map 1
 ![map1](./IMG_6365.png)
