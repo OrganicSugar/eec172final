@@ -4,10 +4,10 @@ Sean Weber - Ryan Nguyen
 
 ## Maps
 Map 1
-![map1](./IMG_6365.HEIC)
+![map1](./IMG_6365.png)
 Map 2
-![map1](./IMG_6366.HEIC)
+![map1](./IMG_6366.png)
 Map 3
-![map1](./IMG_6368.HEIC)
+![map1](./IMG_6368.png)
 ## Demo Videos
 
